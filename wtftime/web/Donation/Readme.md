@@ -1,7 +1,7 @@
 # Donation
 * Hint        : Save the kittens!
 * URL         : http://138.68.96.149:2293
-* Download    : Donation.zip
+* Download    : donation.zip
 
 #
 
